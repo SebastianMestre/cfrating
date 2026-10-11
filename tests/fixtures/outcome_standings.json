@@ -1,0 +1,55 @@
+{
+  "problems": [
+    {
+      "index": "A",
+      "name": "Points Problem",
+      "points": 500
+    },
+    {
+      "index": "B",
+      "name": "Unscored Problem"
+    }
+  ],
+  "rows": [
+    {
+      "party": {
+        "members": [{"handle": "full"}],
+        "participantType": "CONTESTANT"
+      },
+      "problemResults": [
+        {"points": 500, "rejectedAttemptCount": 1, "bestSubmissionTimeSeconds": 100},
+        {"points": 1}
+      ]
+    },
+    {
+      "party": {
+        "members": [{"handle": "partial"}],
+        "participantType": "CONTESTANT"
+      },
+      "problemResults": [
+        {"points": 200, "bestSubmissionTimeSeconds": 80},
+        {"points": 0, "rejectedAttemptCount": 0}
+      ]
+    },
+    {
+      "party": {
+        "members": [{"handle": "quiet"}],
+        "participantType": "CONTESTANT"
+      },
+      "problemResults": [
+        {"points": 0, "rejectedAttemptCount": 0},
+        {"points": 0, "rejectedAttemptCount": 0}
+      ]
+    },
+    {
+      "party": {
+        "members": [{"handle": "rejected"}],
+        "participantType": "CONTESTANT"
+      },
+      "problemResults": [
+        {"points": 0, "rejectedAttemptCount": 2},
+        {"points": 0, "rejectedAttemptCount": 1}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  {"id": 800, "name": "Older", "type": "CF", "phase": "FINISHED", "startTimeSeconds": 1000, "rated": false},
+  {"id": 700, "name": "Cup", "type": "ICPC", "phase": "FINISHED", "startTimeSeconds": 5000},
+  {"id": 900, "name": "Newer", "type": "CF", "phase": "FINISHED", "startTimeSeconds": 2000, "rated": true},
+  {"id": 600, "name": "Soon", "type": "CF", "phase": "BEFORE", "startTimeSeconds": 9000},
+  {"id": 500, "name": "Olympiad", "type": "IOI", "phase": "FINISHED", "startTimeSeconds": 8000}
+]

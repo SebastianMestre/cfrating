@@ -1,0 +1,13 @@
+[
+  {"handle": "ana", "country": "Argentina"},
+  {"handle": "Ñandú", "country": "Argentina"},
+  {"handle": "Bob", "country": "Argentina"},
+  {"handle": "Ana", "country": "Argentina"},
+  {"handle": "lower", "country": "argentina"},
+  {"handle": "padded", "country": "Argentina "},
+  {"handle": "brazil", "country": "Brazil"},
+  {"handle": "almost", "country": "Argentine"},
+  {"handle": "blank"},
+  {"handle": 1, "country": "Argentina"},
+  {"country": "Argentina"}
+]

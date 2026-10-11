@@ -1,0 +1,10 @@
+[
+  {"id": 100, "name": "Unrated CF", "type": "CF", "phase": "FINISHED", "startTimeSeconds": 500, "rated": false},
+  {"id": 200, "name": "ICPC", "type": "ICPC", "phase": "FINISHED", "startTimeSeconds": 9000},
+  {"id": 300, "name": "IOI", "type": "IOI", "phase": "FINISHED", "startTimeSeconds": 8000},
+  {"id": 400, "name": "Future CF", "type": "CF", "phase": "BEFORE", "startTimeSeconds": 10000},
+  {"id": 50, "name": "Older tie", "type": "CF", "phase": "FINISHED", "startTimeSeconds": 700},
+  {"id": 60, "name": "Newer tie", "type": "CF", "phase": "FINISHED", "startTimeSeconds": 700, "rated": true},
+  {"id": 10, "name": "Ancient", "type": "CF", "phase": "FINISHED", "startTimeSeconds": 100},
+  {"id": 20, "name": "Running", "type": "CF", "phase": "CODING", "startTimeSeconds": 9500}
+]
